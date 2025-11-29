@@ -1,5 +1,5 @@
 function Home() {
-    return  (<h1>Você tomou banho hoje?</h1>
+    return  (<h1>Tua mãe é minha se você da uma risadinha</h1>
         
     )
 }
